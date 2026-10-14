@@ -1,7 +1,7 @@
 # ANSWER — นาย รัฐภูมิ ผุดผ่อง 671540005028-9
 
 - Platform: Vercel
-- Production URL: <วาง URL production จริง เช่น https://....vercel.app>
+- Production URL: https://ksu-coffee-671540005028-9.vercel.app
 
 ## คำตอบ
 
